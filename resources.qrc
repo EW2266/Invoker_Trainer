@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resource/green_frame.jpg</file>
+        <file>resource/hint.png</file>
+        <file>resource/main_panel.png</file>
+        <file>resource/no_ability.png</file>
+        <file>resource/solid_black.png</file>
+        <file>resource/abilities/eee.png</file>
+        <file>resource/abilities/eeq.png</file>
+        <file>resource/abilities/eew.png</file>
+        <file>resource/abilities/qqe.png</file>
+        <file>resource/abilities/qqq.png</file>
+        <file>resource/abilities/qqw.png</file>
+        <file>resource/abilities/qwe.png</file>
+        <file>resource/abilities/wwe.png</file>
+        <file>resource/abilities/wwq.png</file>
+        <file>resource/abilities/www.png</file>
+        <file>resource/buffs/buff_exort.png</file>
+        <file>resource/buffs/buff_quas.png</file>
+        <file>resource/buffs/buff_wex.png</file>
+        <file>resource/d/d_eee.png</file>
+        <file>resource/d/d_eeq.png</file>
+        <file>resource/d/d_eew.png</file>
+        <file>resource/d/d_qqe.png</file>
+        <file>resource/d/d_qqq.png</file>
+        <file>resource/d/d_qqw.png</file>
+        <file>resource/d/d_qwe.png</file>
+        <file>resource/d/d_wwe.png</file>
+        <file>resource/d/d_wwq.png</file>
+        <file>resource/d/d_www.png</file>
+        <file>resource/f/f_eee.png</file>
+        <file>resource/f/f_eeq.png</file>
+        <file>resource/f/f_eew.png</file>
+        <file>resource/f/f_qqe.png</file>
+        <file>resource/f/f_qqq.png</file>
+        <file>resource/f/f_qqw.png</file>
+        <file>resource/f/f_qwe.png</file>
+        <file>resource/f/f_wwe.png</file>
+        <file>resource/f/f_wwq.png</file>
+        <file>resource/f/f_www.png</file>
+        <file>resource/back_ground.png</file>
+        <file>resource/Melee_Creep_Dire_model.png</file>
+    </qresource>
+</RCC>
